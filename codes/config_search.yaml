@@ -1,0 +1,19 @@
+custom_gamma_pursuer: False
+gamma_p: 0.25
+
+custom_gamma_evader: False
+gamma_e: 0.1
+
+
+numActionsVec: [10]
+numRoundsVec: [100000]
+numPlays_LBVec: [2]
+numPlays_UBVec: [5]
+numPlays_std: [0.2]
+
+rewardMax: 1.0
+rewardMin: 0.0
+
+results_dir: '../results/MABVP_10_02'
+summaries_dir: '../results/summaries/MABVP_10_02/'
+plots_dir: '../results/plots/MABVP_10_02/'
