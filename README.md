@@ -11,3 +11,6 @@ This code is for paper:
 
 * <code>Exp3M_VP</code>: Run Exp3M-VP algorithm with synthetic reward vectors.
  
+For more info please contact via my [email](yiyangw@umich.edu).
+
+Check out the abstract and full paper [here](https://yiyang920.github.io/publications/BANDIT).
