@@ -5,9 +5,9 @@ This code is for paper:
 <b>Yiyang Wang</b>, Neda Masoud.
 <i>IEEE Access (under review). DOI: 10.13140/RG.2.2.17253.73440/1</i>
 
-<code>AdversarialGame.py</code>: Runs Evasion-and-Pursuit game between the two players.
+* <code>AdversarialGame.py</code>: Run pursuit-evasion game between the two players.
 
-<code>compare.py</code>: Compare Exp3.M-VP against Exp3, Exp3.M, UCB, and epsilon-greedy.
+* <code>compare.py</code>: Compare Exp3.M-VP against Exp3, Exp3.M, UCB, and epsilon-greedy.
 
-<code>Exp3M_VP</code>: Runs Exp3M_VP algorithm with synthetic reward vectors.
+* <code>Exp3M_VP</code>: Run Exp3M-VP algorithm with synthetic reward vectors.
  
